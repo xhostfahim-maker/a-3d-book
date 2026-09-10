@@ -1,4 +1,4 @@
-# 💕 Afra I Love You — 3D Romantic Keepsake Book
+# 💕 Reason I Love You — 3D Romantic Keepsake Book
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-3D%20Interactive%20Book-ff4081?style=for-the-badge" alt="3D Experience">
@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-**Afra I Love You** is a hyper-realistic 3D romantic keepsake book crafted in Vanilla HTML5, CSS3, and JavaScript. Designed with meticulous attention to typography, tactile physics, atmospheric lighting, and audio synthesis, it delivers an unforgettable interactive journey across 12 heartfelt chapters.
+**Reason I Love You** is a hyper-realistic 3D romantic keepsake book crafted in Vanilla HTML5, CSS3, and JavaScript. Designed with meticulous attention to typography, tactile physics, atmospheric lighting, and audio synthesis, it delivers an unforgettable interactive journey across 12 heartfelt chapters.
 
 The experience starts with a closed, leather-bound, gold-filigreed 3D hardcover tome resting in gentle candlelight. Upon opening, the front cover swings open in 3D to reveal a two-page spread: a left-hand memory keepsake polaroid and a right-hand stack of 12 deckled page leaves that turn with realistic paper curling physics. After exploring all 12 reasons and secret love notes, the book gracefully closes in 3D with a grand celebratory confetti explosion and harmonic harp crescendo.
 
