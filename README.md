@@ -67,7 +67,7 @@ The experience starts with a closed, leather-bound, gold-filigreed 3D hardcover 
 | **<kbd>R</kbd> (Reset)** | Restart and read again from the beginning |
 | **Mobile Swipe Left / Right** | Turn page forward / backward with haptic vibration |
 | **"Edit" Button** | Open customizer to edit reasons and love notes |
-| **Instagram Icon** | Visit creator profile [`@the.cipher.stack`](https://instagram.com/the.cipher.stack) |
+| **Instagram Icon** | Visit creator profile .https://www.instagram.com/crux_.fahim/?hl=en. |
 
 ---
 
@@ -125,9 +125,8 @@ Every reason is styled with its own distinct romantic aesthetic:
 
 ## 👨‍💻 Author & Credits
 
-- **Creator & Developer**: **hxni**
-- **Instagram**: [@the.cipher.stack](https://instagram.com/the.cipher.stack)
-
+- **Creator & Developer**: **Fahim**
+- **Instagram**: https://www.instagram.com/crux_.fahim/?hl=en
 > *"In all the world, there is no heart for me like yours."*
 
 ---
